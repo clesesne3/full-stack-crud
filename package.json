@@ -1,0 +1,25 @@
+{
+  "name": "full-stack-crud",
+  "version": "1.0.0",
+  "description": "extra-credit practice",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clesesne3/full-stack-crud.git"
+  },
+  "author": "Chris Lesesne",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/clesesne3/full-stack-crud/issues"
+  },
+  "homepage": "https://github.com/clesesne3/full-stack-crud#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "pg": "^7.4.0"
+  }
+}
